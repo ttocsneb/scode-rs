@@ -1,0 +1,3 @@
+[submodule "scode"]
+	path = scode
+	url = https://github.com/ttocsneb/scode.git
